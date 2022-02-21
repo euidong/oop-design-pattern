@@ -1,0 +1,21 @@
+{
+  "name": "oop-design-pattern",
+  "version": "0.0.1",
+  "description": "OOP Design Pattern Implementation",
+  "scripts": {
+    "lint": "eslint --fix --ext .js,.ts src",
+    "format": "prettier --write src"
+  },
+  "repository": "git+https://github.com/euidong/oop-design-pattern.git",
+  "author": "euidong <justicedong@naver.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/euidong/oop-design-pattern/issues"
+  },
+  "homepage": "https://github.com/euidong/oop-design-pattern#readme",
+  "devDependencies": {
+    "eslint": "^8.9.0",
+    "prettier": "^2.5.1",
+    "typescript": "^4.5.5"
+  }
+}
