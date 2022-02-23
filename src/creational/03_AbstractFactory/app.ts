@@ -28,7 +28,7 @@ class App {
   main() {
     // * const factory = new MazeFactory();
     const factory = new EnchantedMazeFactory();
-    const maze = this.createMaze(factory);
+    const _maze = this.createMaze(factory);
   }
 }
 

@@ -28,7 +28,7 @@ class App {
   }
 
   main() {
-    const maze = this.createMaze();
+    const _maze = this.createMaze();
   }
 }
 

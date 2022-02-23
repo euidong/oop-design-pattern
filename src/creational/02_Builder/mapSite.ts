@@ -1,3 +1,3 @@
 export interface MapSite {
-  enter: () => boolean;
+  enter(): boolean;
 }

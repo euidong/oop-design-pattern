@@ -1,5 +1,5 @@
 export interface MapSite {
-  enter: () => boolean;
+  enter(): boolean;
 }
 
 export class Wall implements MapSite {
